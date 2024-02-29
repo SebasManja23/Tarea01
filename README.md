@@ -1,0 +1,1 @@
+Este programa sirve para compilar programas en c, diciendo hola mundo en diferentes idiomas
